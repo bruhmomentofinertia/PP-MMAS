@@ -25,3 +25,6 @@ To test a specific set of parameters and analyze different metrics, call the **t
 ```
 test_solution("autism", [60, 6, 1, 330, 0])
 ```
+
+## Credits
+Submitted in completion of Q2 project, co-authored by Avery Li and Rem Turatbekov, TJHSST
